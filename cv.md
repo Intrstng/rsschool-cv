@@ -23,7 +23,7 @@ I believe that my focus on results and responsibility will help me become a Fron
 * Javascript (Basic)
 * Git, GitHub
 * Adobe XD, Figma (for developers)
-----
+
 ## Code Example
 ### Count strings in objects
 Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
@@ -38,6 +38,7 @@ strCount({
   //returns 3
 ```
 ##### Solution
+
 ```
 function strCount (obj) {
 let sum = 0
@@ -52,17 +53,19 @@ for (let key in obj) {
 return sum
 }
 ```
+
 ## Courses
 * UDEMY course - "Основы создания сайтов. HTML и CSS для начинающих (2019)"
 * [freecodecamp.org](https://www.freecodecamp.org/ "freecodecamp.org")
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA/ "CS50")
 * JavaScript on [learnjavascript.ru](https://learn.javascript.ru/ "learnjavascript.ru")
-----
+
+
 ## Education
 * **University:** Belarusian National Technical University
-*Technical Operation of Automobiles* engineer-mechanic
+*Technical Operation of Automobiles* - engineer-mechanic
 * **College:** Minsk State Mechanical - Engineering College
- *Internal combustion engines*
+ *Internal combustion engines* - 
  mechanical technician
 ----
 ## Languages
