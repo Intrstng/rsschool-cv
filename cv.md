@@ -1,8 +1,8 @@
-[rsschool-cv](https://github.com/pandao/editor.md "rsschool-cv")
+[rsschool-cv](https://Intrstng.github.io/rsschool-cv/rsccool-cv "rsschool-cv")
 ====
-#Andrei Babich
+# Andrei Babich
 ----
-##Reach me at:
+## Reach me at:
 ----
 * **Location:** Minsk, Belarus
 * **Phone:** +37529 255-98-34
@@ -10,7 +10,7 @@
 * **GitHub:** [Intrstng](https://github.com/Intrstng "Intrstng")
 
 ----
-##About Myself:
+## About Myself:
 
 After starting my career as an engine mechanic, I became a lead engineer for a renewable energy company. My responsibilities included planning maintenance, calculating the cost of purchasing spare parts and negotiating contracts with contractors, discussion and closing of warranty claims with foreign representatives of the equipment manufacturer.
 The accumulated experience in my field allowed me to perform the tasks of a supervisor, I carried out quality control of the work performed by the staff, eliminated equipment malfunctions and trained the staff in the correct operation of the equipment. Teamwork helped me implement staff self-service of equipment and reduce equipment downtime and repair costs by 30%.
@@ -21,15 +21,15 @@ I believe that my focus on results and responsibility will help me become a Fron
 
 ----
 
-##Skills
+## Skills
 ----
 * HTML5, CSS3, Sass/SCSS, BEM
 * Javascript (Basic)
 * Git, GitHub
 * Adobe XD, Figma (for developers)
 ----
-##Code Example
-###Count strings in objects
+## Code Example
+### Count strings in objects
 Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
 ```
 strCount({
@@ -41,7 +41,7 @@ strCount({
   })
   //returns 3
 ```
-#####Solution
+##### Solution
 ```
 function strCount (obj) {
 let sum = 0
@@ -57,20 +57,20 @@ return sum
 }
 ```
 ****
-##Courses
+## Courses
 * UDEMY course - "Основы создания сайтов. HTML и CSS для начинающих (2019)"
 * [freecodecamp.org](https://www.freecodecamp.org/ "freecodecamp.org")
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA/ "CS50")
 * JavaScript on [learnjavascript.ru](https://learn.javascript.ru/ "learnjavascript.ru")
 ----
-##Education
+## Education
 * **University:** Belarusian National Technical University
 *Technical Operation of Automobiles* engineer-mechanic
 * **College:** Minsk State Mechanical - Engineering College
  *Internal combustion engines*
  mechanical technician
 ----
-##Languages
+## Languages
 * English - Intermediate B1 + technical English ([efset.org](https://www.efset.org/quick-check/"efset.org") level 94% - Proficient)
 * Russian - Native
 * Polish - Basic
