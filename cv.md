@@ -10,7 +10,7 @@
 
 
 ## About Myself:
-After starting my career as an engine mechanic, I became a lead engineer in a renewable energy company. My responsibilities included planning maintenance, calculating the cost of purchasing spare parts and conclusion of contracts with contractors, discussion and closing of warranty claims with foreign representatives of the equipment manufacturer.
+After starting my career as an engine mechanic, I became a lead engineer in a renewable energy company. My responsibilities included planning maintenance of equipment, calculating the cost of purchasing spare parts and conclusion of contracts with contractors, discussion and closing of warranty claims with foreign representatives of the equipment manufacturer.
 The accumulated experience in my field allowed me to perform the tasks of a supervisor, I carried out quality control of the work performed by the staff, eliminated equipment malfunctions and trained the staff in the correct operation of the equipment. Teamwork helped me implement staff self-service of equipment and reduce equipment downtime and repair costs by 30%.
 
 My previous experience was also related to computer diagnostics of electronic components of industrial engines and setting up and parameterizing controllers of automatic systems of these engines. Programming has always been enthralling me.
