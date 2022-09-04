@@ -28,7 +28,34 @@ I believe that my focus on results and responsibility will help me become a Fron
 * Git, GitHub
 * Adobe XD, Figma (for developers)
 ----
+##Code Example
+###Count strings in objects
+Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
+```
+strCount({
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime",2,3,4],
+  fifth:  null
+  })
+  //returns 3
+```
+#####Solution
+```
+function strCount (obj) {
+let sum = 0
 
+for (let key in obj) {
+  if (typeof obj[key] === 'string' ) {
+    sum += 1
+  } if (typeof obj[key] === 'object') {
+    sum += strCount(obj[key])
+  }
+}
+return sum
+}
+```
 ****
 ##Courses
 * UDEMY course - "Основы создания сайтов. HTML и CSS для начинающих (2019)"
