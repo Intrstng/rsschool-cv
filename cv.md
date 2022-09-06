@@ -59,8 +59,8 @@ return sum
 ## Career history
 After starting my career as an engine mechanic, I became a lead engineer in a renewable energy company. Accumulated experience in my field allowed me to successfully overcome difficulties in solving complex problems. The idea of participating in something important is the first priority for me.
 ### May 2020 - May 2022 - Senior engeneer-mechanic, Modus Group UAB, Minsk, Belarus.
-Was responsible for the operation and maintenance of 10 biogas energy complexes (renewable energy), 10 front loaders and auxiliary equipment on sites in five regions of Belarus.
-Led a team of engineers and operators of complexes. Was engaged in maintenance planning, calculation of the cost of purchasing spare parts, concluding contracts with contractors and quality control of work performed by staff. Discussed and closed warranty claims with foreign representatives of the equipment manufacturer.
+I was responsible for the operation and maintenance of 10 biogas energy complexes (renewable energy), 10 front loaders and auxiliary equipment on sites in five regions of Belarus.
+Led a team of engineers and operators of complexes. I was engaged in maintenance planning, calculation of the cost of purchasing spare parts, concluding contracts with contractors and quality control of work performed by staff. Discussed and closed warranty claims with foreign representatives of the equipment manufacturer.
 Performed the tasks of a supervisor (monitored the correct operation and eliminated equipment malfunctions). Trained staff in the proper use of the equipment. Introduced self-maintenance of equipment by personnel, reduced the amount of equipment downtime and equipment repair costs by 30%.
 
 ### Apr 2015 - Apr 2020 - Engeneer-mechanic, Zeppelin Weissrussland (oficial dealer of Caterpillar), Minsk, Belarus.
