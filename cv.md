@@ -58,16 +58,16 @@ return sum
 
 ## Career history
 After starting my career as an engine mechanic, I became a lead engineer in a renewable energy company. Accumulated experience in my field allowed me to successfully overcome difficulties in solving complex problems. The idea of participating in something important is the first priority for me.
-### May 2020 - May 2022 - Senior engeneer-mechanic, Modus Group UAB, Minsk, Belarus.
+### May 2020 - May 2022 - Senior engineer-mechanic, Modus Group UAB, Minsk, Belarus.
 I was responsible for the operation and maintenance of 10 biogas energy complexes (renewable energy), 10 front loaders and auxiliary equipment on sites in five regions of Belarus.
 Led a team of engineers and operators of complexes. I was engaged in maintenance planning, calculation of the cost of purchasing spare parts, concluding contracts with contractors and quality control of work performed by staff. Discussed and closed warranty claims with foreign representatives of the equipment manufacturer.
 Performed the tasks of a supervisor (monitored the correct operation and eliminated equipment malfunctions). Trained staff in the proper use of the equipment. Introduced self-maintenance of equipment by personnel, reduced the amount of equipment downtime and equipment repair costs by 30%.
 
-### Apr 2015 - Apr 2020 - Engeneer-mechanic, Zeppelin Weissrussland (oficial dealer of Caterpillar), Minsk, Belarus.
+### Apr 2015 - Apr 2020 - Engineer-mechanic, Zeppelin Weissrussland (oficial dealer of Caterpillar), Minsk, Belarus.
 
 Repairing and maintenance of Caterpillar industrial engines. Made setting, parameterizations of controllers of motor automation systems. Carried out comissioning, computer diagnosting and troubleshooting of engines, loaders, dozers and other Caterpillar equipment. Trained in Germany. Performed complex repairs and diagnostics of industrial engines in Belarus and on business trips abroad. Awarded as the most customer-oriented employee of the service department.
 
-### Apr 2012 - Apr 2020 - Engeneer-mechanic, Eltecoproject, Minsk, Belarus.
+### Apr 2012 - Apr 2020 - Engineer-mechanic, Eltecoproject, Minsk, Belarus.
 
 Selling of power equipment (industrial generator sets, inverters, UPS). I prepared documents for participation in tenders for the sale of equipment. Performed the duties of the head of the service department. Calculated and conclused contracts for the provision of warranty and post-warranty service. Completed two commissioning projects of combined heat plants while at the company, provided maintenance services at the customer's facilities.
 
@@ -76,9 +76,10 @@ Selling of power equipment (industrial generator sets, inverters, UPS). I prepar
 Operated, maintained  and repaired industrial engines of the energy power complex.
 
 ## Additional courses
- **Dec 2016:** Business school IPM [https://www.academ.by/](https://www.academ.by/ "https://www.academ.by/")
+ * **Dec 2016:** Business school IPM [https://www.academ.by/](https://www.academ.by/ "https://www.academ.by/")
  *Corporate Program: Customer-oriented communication for employees of service department.*
- **Apr 2013, June 2017, Apr 2019:** Caterpillar training center (Mannheim, Germany).
+
+ * **Apr 2013, June 2017, Apr 2019:** Caterpillar training center (Mannheim, Germany).
  *Total Electronic Management - TEM EVO (controllers for industrial gas engines)* 
 ## Education
 * **University:** Belarusian National Technical University
