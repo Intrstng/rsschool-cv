@@ -81,6 +81,7 @@ Operated, maintained  and repaired industrial engines of the energy power comple
 
  * **Apr 2013, June 2017, Apr 2019:** Caterpillar training center (Mannheim, Germany).
  *Total Electronic Management - TEM EVO (controllers for industrial gas engines)* 
+ * **Sept 2012:** Elteco training center (Žilina, Slovakia) *Cogeneration units and gensets, uninterraptible power supplies - Installation and service*
 ## Education
 * **University:** Belarusian National Technical University
 *Technical Operation of Automobiles* - engineer-mechanic
