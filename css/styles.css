@@ -42,12 +42,12 @@ main {
   width: 100%;
   margin-bottom: 2.2rem;
   position: fixed;
-  z-index: 1;
+  z-index: 3;
   left: 0;
   top: 0;
 }
 .header__navigation {
-  background-color: rgb(43, 125, 237);
+  background-color: rgb(0, 67, 161);
 }
 .header__nav {
   display: flex;
@@ -405,8 +405,7 @@ main {
   transition: color 0.4s ease;
 }
 .courses__link_hover:hover {
-  color: rgba(81, 103, 142, 0.7);
-  text-decoration: underline;
+  color: rgb(43, 125, 237);
 }
 /* Education
 ====================== */
@@ -450,11 +449,13 @@ main {
   font-weight: 600;
   letter-spacing: 0.04rem;
 }
-.education__item:last-of-type {
-  margin: 1.2rem 0 0.6rem;
-  font-size: 1.1rem;
-  list-style-type: none;
+.education__item:last-of-type > span {
   color: rgb(43, 125, 237);
+}
+.education__item:last-of-type {
+  list-style-type: none;
+  margin: 1.2rem 0 0.6rem;
+  font-size: 1rem;
 }
 .education__add-item > a {
   font-size: 1rem;
@@ -463,7 +464,7 @@ main {
   text-decoration: none;
 }
 .education__add-item > span {
-  font-weight: 600;
+  font-size: 0.9rem;
   letter-spacing: 0.04rem;
   color: rgb(43, 125, 237);
 }
@@ -669,7 +670,7 @@ color: rgba(43, 125, 237, 0.8);
   align-items: center;
   width: 100%;
   height: 11vh;
-  background-color: #2B7DED;
+  background-color: rgb(0, 91, 218);
 }
 .footer__git-icon {
   width: 2.4rem;
