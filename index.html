@@ -162,26 +162,25 @@
   <p class="code__task">Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:</p>
   <pre class="code__text"><code>
     strCount({
-      first: "1",
-      second: "2",
+      first: '1',
+      second: '2',
       third: false,
-      fourth: ["anytime",2,3,4],
-      fifth:  null
+      fourth: ['anytime', 2, 3, 4],
+      fifth:  null,
     })
     //returns 3</code></pre>
   <h3 class="code__solution-title">Solution</h3>
   <pre class="code__solution"><code>
-    function strCount (obj) {
-      let sum = 0
-    
-    for (let key in obj) {
-      if (typeof obj[key] === 'string' ) {
-        sum += 1
-      } if (typeof obj[key] === 'object') {
-        sum += strCount(obj[key])
+    const strCount = (obj) => {
+      let sum = 0;
+      for (let key in obj) {
+        if (typeof obj[key] === 'string') {
+          sum += 1;
+        } if (typeof obj[key] === 'object') {
+          sum += strCount(obj[key]);
+        }
       }
-    }
-    return sum
+      return sum;
     }</code></pre>
   </div>
 </section>
