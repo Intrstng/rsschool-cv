@@ -8,6 +8,7 @@
 * **GitHub:** [Intrstng](https://github.com/Intrstng "Intrstng")
 
 ## About Myself:
+
 I am a beginner Front-end developer. I am well oriented in modern Front-end technologies and every day I study the possibilities of the JavaScript language. I am responsible and try to find a solution on my own. I like to work in a team because working in a team on the same task inspires me.
 I am interested in web development because this field is developing rapidly, which gives the opportunity to constantly learn something new and improve professional skills.
 I am looking for an internship or a job to start my career path in Front-end development.
