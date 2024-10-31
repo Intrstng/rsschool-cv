@@ -93,3 +93,4 @@ Operated, maintained  and repaired industrial engines of the energy power comple
 * English - Intermediate B1 + technical English ([efset.org](https://www.efset.org/quick-check/"efset.org") level 94% - Proficient)
 * Russian - Native
 * Polish - Basic
+* Turkish - Basic
